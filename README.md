@@ -46,6 +46,28 @@ JAVA decided into three categories they are
 
                   BASICS OF JAVA 
 
+Overview Of JAVA
+ 
+Java is a platform independent, more powerful, secure, high performance multithreade
+
+programming language. Here we discuss some points related to Java. 
+
+ 
+°Define JRE
+
+The Java runtime environment is part of the Java development kit. It contains set of libraries and tools for developing Java application. 
+
+°Define JVM
+
+JVM is set of program developed by sun Micro System and supplied as a part of jdk for reading line by line of byte code and it converts into native understanding form of operating system. 
+
+° Garbage Collector
+ 
+Garbage collector is the system Java program which runs in the background along with regular Java program to collect Un-referenced memory space for improving the performance of our application. 
+
+° Define an API
+
+An API (application programming interface) is a collection of packages. A package is the collection of classes. 
 
 
 
