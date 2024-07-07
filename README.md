@@ -72,6 +72,24 @@ An API (application programming interface) is a collection of packages. A packag
 
 Difference Between JDK, JRE AND JVM. 
  
-JVM, JRE, and jdk these all  the backbone of Java language. eack components have separated works. jdk and jre physically 
+JVM, JRE, and jdk these all  the backbone of Java language. eack components have separated works. jdk and jre physically exists but JVM are abstract machine it means it not physically exists. 
+JVM:JVM (Java virtual machine) is a software. it is a specification that provides runtime environment in which Java bytecode can be executed. it not physically exists. JVMs are not same for all hardware and software, for example for window os JVM is different and for linux VJM is different. 
+
+JRE: The Java runtime environment is part of the Java development kit(JDK). it contains set of libraries and tools for developing Java application. The Java Runtime environment provides the minimum requirements for executing a Java application. 
+
+JDK: The Java development kit(JDK) is primary components. it physically exists. it is collection of programming tools and JRE, JVM. 
+
+
+• Object and Class
+
+Object is the physically as well as logical entity where as class is the only logical entity. 
+
+Class: class is a blue print which is containing only list of variables and method and no memory is allocated for them. A class is a group of objects that has common properties. 
+ 
+ A class is Java contains:
+ 
+ . Data Member
+ . Method
+ . Constructor
 
 
