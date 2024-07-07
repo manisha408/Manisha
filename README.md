@@ -70,4 +70,8 @@ Garbage collector is the system Java program which runs in the background along 
 An API (application programming interface) is a collection of packages. A package is the collection of classes. 
 
 
+Difference Between JDK, JRE AND JVM. 
+ 
+JVM, JRE, and jdk these all  the backbone of Java language. eack components have separated works. jdk and jre physically 
+
 
