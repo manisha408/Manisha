@@ -1,3 +1,5 @@
+
+
 koodagolishi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
@@ -113,5 +115,22 @@ Object: object is a instance of class, object has state and behavior. An object 
 
 Structure of Java Program
 
-Structure of a Java program is the standard format released by language developer to the industry programmer . Sun Micro System has prescibed the following structure of java programmer for developing for java application. 
+Structure of a Java program is the standard format released by language developer to the industry programmer . Sun Micro System has prescibed the following structure of java programmer for developing for java application.
+
+
+
+Package details ----------------> import Java. io
+class ClassName ----------------> class sum
+{ 
+Data members;-----------------> int a, b, c;
+
+User_defined method;----------> void display() ;
+
+public static void main(string args[]) 
+{
+block of statement;---------->System.out.println("hellow Java!") ;
+}
+}
+
+• A Package is a collection of class, interface and sub-package . 
 
