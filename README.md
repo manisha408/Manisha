@@ -91,5 +91,17 @@ Class: class is a blue print which is containing only list of variables and meth
  . Data Member
  . Method
  . Constructor
+ . Block
+ . Class and Interface
+ 
+Object: object is a instance of class, object has state and behavior. An object in Java has three characteristics. 
+• State
+• behavior
+• Identify
+
+
+• State: represent data of an object. 
+• Behavior: represent the behavior of an object  such as deposit , withdraw etc. 
+• Identify: 
 
 
