@@ -1,4 +1,4 @@
-golishi TRAINING REPORT ON JAVA LANGUAGE
+koodagolishi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
     
@@ -101,7 +101,17 @@ Object: object is a instance of class, object has state and behavior. An object 
 
 
 • State: represent data of an object. 
-• Behavior: represent the behavior of an object  such as deposit , withdraw etc. 
-• Identify: 
 
+• Behavior: represent the behavior of an object  such as deposit , withdraw etc. 
+
+• Identify: object identify is typically implemented via a unique ID. The value of the id is not visible to the external user. 
+
+
+
+            * PROGRAMMING CONCEPT *
+
+
+Structure of Java Program
+
+Structure of a Java program is the standard format released by language developer to the industry programmer . Sun Micro System has prescibed the following structure of java programmer for developing for java application. 
 
