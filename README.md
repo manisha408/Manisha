@@ -1,6 +1,4 @@
-
-
-koodagolishi TRAINING REPORT ON JAVA LANGUAGE
+shi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
     
@@ -132,5 +130,67 @@ block of statement;---------->System.out.println("hellow Java!") ;
 }
 }
 
-• A Package is a collection of class, interface and sub-package . 
+• A Package is a collection of class, interface and sub-package contains collection of classes , interface and sub-package etc. 
+
+. Class is keyword used for developing user defined data type and every java program must start with a connept of class. 
+
+
+
+Main() Method
+
+Main() method is starting execution block of java program or any program start their execution form main method. if any class contain main() method knows as main class. 
+
+
+
+•Decision Making Statement
+
+decision making statement is also called selection statement. That is depending on the conditional block need to be executed or not which is decided by condition. if the condition is 'true' statement block will be executed, if condition is ' false' then statement block not be executed. 
+
+In Java three are three types of decision making statement. 
+
+
+. if
+
+. if-else
+
+. switch
+
+
+
+•Looping statements
+for loop, while loop or do while loop. 
+
+
+
+         * Constructor and It's types *
+
+
+A constructor is a special members method which will be called implicitly by the JVM whenever as object is created for placing user and programmer defined values in place or default value . 
+
+Types of Constructor
+
+based on creating object in java constructor and classified in two types . they are
+
+. Default or no argument Constructor
+. Parameterized constructors 
+
+static block is a set of statement which will be executed by the JVM before execution of main method. at the time of class loading if we want to perform any activity we have to defined that activity inside static block execute at the time of class loading.
+
+
+             **JAVA OBJECT ORIENTED**
+
+Inheritance 
+
+The process of obtaining the data members and method from one class to another class is known as inheritance. it is one of the fundamental feature of object oriented programming. 
+
+//Types of inheritance
+
+. Single inheritance
+. multiple inheritance
+. hierarchical inheritance
+. multilevel inheritance
+. hybrid inheritance
+
+
+
 
