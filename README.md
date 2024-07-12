@@ -253,4 +253,20 @@ dues to this, the 'Timezones' filed provides a shift in second from UTC.
 
 • feels like:
 
+this parameters is added and it account for human reception of weather it let's you know how the temperature feels . 
+
+
+
+𝙊𝙐𝙏𝙋𝙐𝙏 𝘼𝙏 𝙑𝘼𝙍𝙄𝙊𝙐𝙎 𝙎𝙏𝘼𝙂𝙀𝙎
+
+𝙎𝙩𝙚𝙥:1 enter the name of the city in the first box that is typed as shimla here. then write the number of days  for which you need to find the forecast. 
+
+The app will fetch the data from the open source website open weatherMap and we will be able to fetch the data from there, onto over mobile screen. 
+
+
+𝙎𝙩𝙚𝙥:2 The application requirs proper internet connection to display the correct results. Here as we can see the weather report for five days has been display on the mobile screen. 
+
+you can click on any one slot to access the minimum and maximum temperatur on one particular day. 
+
+
 
