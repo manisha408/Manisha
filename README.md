@@ -1,3 +1,4 @@
+
 shi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
@@ -192,5 +193,64 @@ The process of obtaining the data members and method from one class to another c
 . hybrid inheritance
 
 
+
+
+              𝙋𝙍𝙊𝙅𝙀𝘾𝙏 𝙐𝙉𝘿𝙀𝙍𝙏𝘼𝙆𝙀𝙉
+
+
+Connect for whether App:  
+
+• 𝘾𝙊𝙈𝙈𝙊𝙉
+
+1. Created package common, and a class in the 
+   package alsa called common. 
+
+2. This will help to hold data sharing. 
+
+3. Taken API key from an open source website ,   
+   called open weathermap which is london based  
+   company which shares data regarding the                 
+   weather to developer. 
+
+4. API_LINK is link API of open weatherMap. 
+   And we will create a function to create a 
+   functional link to the API path. 
+
+5. create a function to convert unix  time 
+   stamp to date type with format "HH:mm".
+
+6. A three function will be used to get a link 
+   image from open WeatherMap . 
+
+7. Finally a forth function will be create to 
+   get date with format "DD/MM/YY"HH:mm.
+
+   𝙈𝙊𝘿𝙀𝙇 
+
+. look at the json string from open weatherMap,  
+  API and create a model package for it. 
+
+. consider all the parameters and then create 
+  seperate class for each under the same 
+  package, also create constructor in each 
+  class with getter and setter respectively. 
+
+𝙍𝙚𝙨𝙪𝙡𝙩𝙨 𝙖𝙨 𝙫𝙖𝙧𝙞𝙤𝙪𝙨 𝙨𝙩𝙖𝙜𝙚𝙨
+
+• 𝙎𝙩𝙚𝙥 𝙩𝙖𝙠𝙚𝙣 𝙗𝙮 𝙩𝙝𝙚 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙬𝙚𝙗𝙨𝙞𝙩𝙚
+
+• climate API: Climate forecast for 30 days. 
+
+  climate forecast for 30 days allow you to request weather data for next 30 days. this is a statistical approach and weather data are updated with hourly frequency. 
+
+• hourly forecast: 
+
+hourly forecast for 4 days with 96 timestamp and very high geographic Accourecy. 
+
+. Integrated Timezones 
+ 
+dues to this, the 'Timezones' filed provides a shift in second from UTC. 
+
+• feels like:
 
 
