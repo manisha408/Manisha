@@ -269,4 +269,12 @@ The app will fetch the data from the open source website open weatherMap and we 
 you can click on any one slot to access the minimum and maximum temperatur on one particular day. 
 
 
+𝗦𝘁𝗲𝗽:3 we are performing the first step again , but this time we are entering the result for delhi for just one day. 
+ 
+
+𝙎𝙩𝙚𝙥:4 however if you wish to access the maximum and minimum temperature, you need to tap on the icon. 
+
+
+𝙎𝙩𝙚𝙥:5 when we tap on the icons the following result is displaying on the application. here we get the date e.g 14th,2024 then the average temperatur , then the icon displaying that it is a cloud day . and finally we get the min and max temperature of that day. 
+
 
