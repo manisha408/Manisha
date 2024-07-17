@@ -283,3 +283,16 @@ you can click on any one slot to access the minimum and maximum temperatur on on
 
 
 climate forecasting is the utilization of science and innovation of foresee the state of the environment for a given area and time. individuals have endevoured to anticipate the climate causally for centuries and official since the nineteen century. climate forcast are made bye gathering quantitive information about the current condition of the environment at a given spot and utilizing metrology to extend how the air will change. 
+
+
+
+
+
+
+
+
+****🅔🅥🅔🅝🅣 🅜🅐🅝🅐🅖🅔🅜🅔🅝🅣 🅢🅨🅢🅣🅔🅜****
+
+
+𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣
+event management is the application to manage and development to festival event and conference . 
