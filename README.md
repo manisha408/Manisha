@@ -278,3 +278,8 @@ you can click on any one slot to access the minimum and maximum temperatur on on
 𝙎𝙩𝙚𝙥:5 when we tap on the icons the following result is displaying on the application. here we get the date e.g 14th,2024 then the average temperatur , then the icon displaying that it is a cloud day . and finally we get the min and max temperature of that day. 
 
 
+
+       **𝘾𝙤𝙣𝙘𝙡𝙪𝙨𝙞𝙤𝙣**
+
+
+climate forecasting is the utilization of science and innovation of foresee the state of the environment for a given area and time. individuals have endevoured to anticipate the climate causally for centuries and official since the nineteen century. climate forcast are made bye gathering quantitive information about the current condition of the environment at a given spot and utilizing metrology to extend how the air will change. 
