@@ -22,6 +22,13 @@ The matter embodied in this training work has not been submitted earlier for awa
 
    
                                  MANISHA
+
+
+
+
+                   𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙚
+
+𝙞t is certified that Manisha is a bonafide student of class master of computer science 3rd Semester under university rollno 233112720023.
     
 
 
