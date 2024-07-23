@@ -1,4 +1,4 @@
-
+p
 shi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
@@ -302,4 +302,4 @@ climate forecasting is the utilization of science and innovation of foresee the 
 
 
 𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣
-event management is the application to manage and development to festival event and conference . 
+event management is the application to manage and development to festival event and conference . proposed work involved study of identifying the target of budget cost and Analysis . post event analysis and ensuring a return on investment 
