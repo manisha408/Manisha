@@ -302,4 +302,15 @@ climate forecasting is the utilization of science and innovation of foresee the 
 
 
 𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣
-event management is the application to manage and development to festival event and conference . proposed work involved study of identifying the target of budget cost and Analysis . post event analysis and ensuring a return on investment 
+event management is the application to manage and development to festival event and conference . proposed work involved study of identifying the target of budget cost and Analysis . post event analysis and ensuring a return on investment have become significant driver for the event industry. this is an online event management system software project that servest the functionality of an event manager. 
+
+event management system is very helpful for event. this application being as a platform to know the event to apply for the event. every organizer is an application under project management for managing festival or social events like gathering, college, event , conference etc. 
+
+
+🅼🅾🅳🆄🅻🅴🆂 🅳🅴🆂🅲🆁🅸🅿🆃🅸🅾🅽
+
+
+𝘼𝙙𝙢𝙞𝙣 𝙇𝙤𝙜𝙞𝙣-  admin view,update, delete customer and vendors record admin view update booking record, verify email and message receipt mail . if any vendors rating will constantly not good then admin can remove vendors. 
+
+𝙍𝙚𝙜𝙞𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣-  in the user and vendors registration form the user and vendors has to enter the user and vendors name, address, email, identification  and the phone number. the user and vendors details are allowed to store in the centerlized database with an automatic generated event I'd. 
+
