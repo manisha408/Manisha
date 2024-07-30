@@ -314,3 +314,16 @@ event management system is very helpful for event. this application being as a p
 
 𝙍𝙚𝙜𝙞𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣-  in the user and vendors registration form the user and vendors has to enter the user and vendors name, address, email, identification  and the phone number. the user and vendors details are allowed to store in the centerlized database with an automatic generated event I'd. 
 
+
+𝙘𝙝𝙚𝙘𝙠 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙞𝙡𝙞𝙩𝙮- in the check availability module user check the availability of the hall and then book the hall for their event. 
+
+
+𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧- in the customer moduls customer doing   own registration, login, search event view, update, delete own profile , select event date and time , select event, select place , change password. Search is optional they can search event without login. After booking vendors provide notifications like book successful and then log out. website provide all the details about budget of hall. 
+
+
+𝙑𝙚𝙣𝙙𝙤𝙧𝙨- vendors register, login, view, inserts, update , delete own profile, confirm booking of event for customer. vendors manage event, manage place, manage equipment, manage food and send notifications of event booking to customer they can see the review provided by customer after organizing event successful. 
+
+
+𝘾𝙊𝙉𝘾𝙇𝙐𝙎𝙄𝙊𝙉
+-----------
+in this project we made 
