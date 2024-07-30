@@ -1,4 +1,4 @@
-p
+hp
 shi TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
@@ -326,4 +326,4 @@ event management system is very helpful for event. this application being as a p
 
 𝘾𝙊𝙉𝘾𝙇𝙐𝙎𝙄𝙊𝙉
 -----------
-in this project we made 
+in this project we made attempt to effectively introduce the concept of event management system already existing in the society . we then explain the concept of online event management system which are already present. 
