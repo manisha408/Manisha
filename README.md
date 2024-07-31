@@ -1,5 +1,4 @@
-hp
-shi TRAINING REPORT ON JAVA LANGUAGE
+TRAINING REPORT ON JAVA LANGUAGE
 
 Submitted in partial fulfillment of the requirements for the award of  degree of
     
